@@ -1,0 +1,6 @@
+msconfig
+devmgmt.msc
+compmgmt.msc
+cleanmgr
+%temp%
+temp
