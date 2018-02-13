@@ -1,0 +1,6 @@
+Nextpost 3.0.5 Statistic Page bugfix. In the File "StatisticsController.php" 
+change line 242 from: 
+if ($month < 0) { 
+to this: 
+if ($month <= 0) { 
+done.
